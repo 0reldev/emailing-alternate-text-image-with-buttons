@@ -31,24 +31,19 @@ Webmail:
 
 ### Desktop renders
 
-![screen capture](https://github.com/0reldev/emailing-alternate-text-image/blob/dev/screen-captures/desktop-1.png)
+![screen capture](https://github.com/0reldev/emailing-alternate-text-image-with-buttons/blob/dev/screen-captures/desktop-1.png)
 
-![screen capture](https://github.com/0reldev/emailing-alternate-text-image/blob/dev/screen-captures/desktop-2.png)
+![screen capture](https://github.com/0reldev/emailing-alternate-text-image-with-buttons/blob/dev/screen-captures/desktop-2.png)
 
-![screen capture](https://github.com/0reldev/emailing-alternate-text-image/blob/dev/screen-captures/desktop-3.png)
 
 ### Mobile renders
 
-![screen capture](https://github.com/0reldev/emailing-alternate-text-image/blob/dev/screen-captures/mobile-1.png)
+![screen capture](https://github.com/0reldev/emailing-alternate-text-image-with-buttons/blob/dev/screen-captures/mobile-1.png)
 
-![screen capture](https://github.com/0reldev/emailing-alternate-text-image/blob/dev/screen-captures/mobile-2.png)
+![screen capture](https://github.com/0reldev/emailing-alternate-text-image-with-buttons/blob/dev/screen-captures/mobile-2.png)
 
-![screen capture](https://github.com/0reldev/emailing-alternate-text-image/blob/dev/screen-captures/mobile-3.png)
+![screen capture](https://github.com/0reldev/emailing-alternate-text-image-with-buttons/blob/dev/screen-captures/mobile-3.png)
 
-![screen capture](https://github.com/0reldev/emailing-alternate-text-image/blob/dev/screen-captures/mobile-4.png)
+![screen capture](https://github.com/0reldev/emailing-alternate-text-image-with-buttons/blob/dev/screen-captures/mobile-4.png)
 
-![screen capture](https://github.com/0reldev/emailing-alternate-text-image/blob/dev/screen-captures/mobile-5.png)
-
-![screen capture](https://github.com/0reldev/emailing-alternate-text-image/blob/dev/screen-captures/mobile-6.png)
-
-![screen capture](https://github.com/0reldev/emailing-alternate-text-image/blob/dev/screen-captures/mobile-7.png)
+![screen capture](https://github.com/0reldev/emailing-alternate-text-image-with-buttons/blob/dev/screen-captures/mobile-5.png)
